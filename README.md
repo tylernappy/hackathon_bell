@@ -9,6 +9,7 @@ Hackathon attendee who wants help comes over to the "bell". The onboard camera w
 * Download a VNC on Raspberry Pi and Computer. Tuturial [here](https://www.raspberrypi.org/documentation/remote-access/vnc/)
 * Other commands can be found [here](https://www.raspberrypi.org/guides/teachers/vnc-classroom-guide.md) to help start on Raspberry Pi
 * Once on the Raspberry Pi, cd into the directory of the app and run `sudo python index.py`
+* To shutdown the Raspberry, run the following command `sudo shutdown -h now`
 
 ## Libraries used
 * [HP IDOL OnDemand Python Wrapper](https://github.com/HP-IDOL-OnDemand/iod-python)
